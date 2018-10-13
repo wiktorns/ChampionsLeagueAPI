@@ -1,0 +1,45 @@
+
+///////////////////////////////////////
+[
+	{
+		"matchId": 1,	
+        "updatedScore": "15:0"
+    },
+	{
+		"matchId": 2,
+        "updatedScore": "14:0"
+    },
+	{
+        "updatedScore": "13:0"
+    }
+]
+///////////////////////////////////////
+[
+	{
+		"matchId": 1,	
+        "updatedScore": "15s:0"
+    },
+	{
+		"matchId": 2,
+        "updatedScore": "14:0"
+    },
+	{
+		"matchId": 3,
+        "updatedScore": "13:0"
+    }
+]
+///////////////////////////////////////
+[
+	{
+		"matchId": 1,	
+        "updatedScore": "15s:0"
+    },
+	{
+		"matchId": 2,
+    },
+	{
+		"matchId": 3,
+        "updatedScore": "13:0"
+    }
+]
+///////////////////////////////////////

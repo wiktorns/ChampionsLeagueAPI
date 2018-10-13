@@ -1,0 +1,20 @@
+[
+	{
+        "leagueTitle": "Champions League 2018/19",
+        "matchday": 1,
+        "group": "G",
+        "homeTeam": "",
+        "awayTeam": "Roma",
+        "kickoffAt": "2018-09-19",
+        "score": "3g:0"
+    },
+	{
+        "leagueTitle": "Champions League 2018/19",
+        "matchday": 1,
+        "group": "G",
+        "homeTeam": "Plzen",
+        "awayTeam": "CSKA Moscow",
+        "kickoffAt": "2018-09-19",
+        "score": "2:2"
+    }
+]

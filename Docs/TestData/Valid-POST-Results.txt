@@ -1,0 +1,74 @@
+[
+	{
+        "leagueTitle": "Champions League 2018/19",
+        "matchday": 1,
+        "group": "B",
+        "homeTeam": "Inter",
+        "awayTeam": "Tottenham",
+        "kickoffAt": "2018-09-18",
+        "score": "2:1"
+    },
+	{
+        "leagueTitle": "Champions League 2018/19",
+        "matchday": 1,
+        "group": "B",
+        "homeTeam": "Barcelona",
+        "awayTeam": "PSV",
+        "kickoffAt": "2018-09-18",
+        "score": "4:0"
+    },
+	{
+        "leagueTitle": "Champions League 2018/19",
+        "matchday": 2,
+        "group": "B",
+        "homeTeam": "PSV",
+        "awayTeam": "Inter",
+        "kickoffAt": "2018-10-03",
+        "score": "1:2"
+    },
+	{
+        "leagueTitle": "Champions League 2018/19",
+        "matchday": 2,
+        "group": "B",
+        "homeTeam": "Tottenham",
+        "awayTeam": "Barcelona",
+        "kickoffAt": "2018-10-03",
+        "score": "2:4"
+    },
+	{
+        "leagueTitle": "Champions League 2018/19",
+        "matchday": 1,
+        "group": "E",
+        "homeTeam": "Ajax",
+        "awayTeam": "AEK",
+        "kickoffAt": "2018-09-19",
+        "score": "3:0"
+    },
+	{
+        "leagueTitle": "Champions League 2018/19",
+        "matchday": 1,
+        "group": "E",
+        "homeTeam": "Benfica",
+        "awayTeam": "Bayern",
+        "kickoffAt": "2018-09-19",
+        "score": "0:2"
+    },
+	{
+        "leagueTitle": "Champions League 2018/19",
+        "matchday": 2,
+        "group": "E",
+        "homeTeam": "AEK",
+        "awayTeam": "Benfica",
+        "kickoffAt": "2018-10-02",
+        "score": "2:3"
+    },
+	{
+        "leagueTitle": "Champions League 2018/19",
+        "matchday": 2,
+        "group": "E",
+        "homeTeam": "Bayern",
+        "awayTeam": "Ajax",
+        "kickoffAt": "2018-10-02",
+        "score": "1:1"
+    }
+]
